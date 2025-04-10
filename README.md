@@ -2,7 +2,7 @@
 
 A gamified sleep improvement application that integrates with Oura Ring data to create competitive leaderboards and reward sleep improvement.
 
-![Dashboard View](/SleepOlympics/media/dashboardView.png)
+![Dashboard View](/media/dashboardView.png)
 
 ## Project Concept
 
@@ -20,10 +20,10 @@ Sleep Olympics transforms your sleep data into a fun, competitive experience. Th
 
 | Feature | Screenshot |
 |---------|------------|
-| Dashboard | ![Dashboard View](/SleepOlympics/media/dashboardView.png) |
-| Leaderboard | ![Leaderboard View](/SleepOlympics/media/leaderboardView.png) |
-| Login Screen | ![Login View](/SleepOlympics/media/loginView.png) |
-| User Profile | ![Profile View](/SleepOlympics/media/profileView.png) |
+| Dashboard | ![Dashboard View](/media/dashboardView.png) |
+| Leaderboard | ![Leaderboard View](/media/leaderboardView.png) |
+| Login Screen | ![Login View](/media/loginView.png) |
+| User Profile | ![Profile View](/media/profileView.png) |
 
 ## Technology Stack
 
